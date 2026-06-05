@@ -1,0 +1,2 @@
+# Haic
+C and Unix/Linux bridge package inside the Haicode family.
